@@ -1,6 +1,5 @@
-flask
 transformers
 torch
-soundfile
-librosa
-langid
+flask
+flask-cors
+sentencepiece
